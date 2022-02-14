@@ -1,5 +1,5 @@
 # EsoTalk_Russian_lang
-Full Russian Lang for EsoTalk
+Full Russian Lang for EsoTalk and all of the Plugins
 
 =================================
 
