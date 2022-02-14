@@ -1,2 +1,8 @@
 # EsoTalk_Russian_lang
-Russian Lang for EsoTalk
+Full Russian Lang for EsoTalk
+
+=================================
+
+Полный перевод ЕsoTalk и всех плагинов. То что не было переведено, находитса в самих файлах не имеющих Т(""). Нужно переводить самим. 
+
+Enjoy!
