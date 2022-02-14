@@ -1,6 +1,6 @@
 <?PHP
-$definitions["BBCode Allowed"] = "BBCode Allowed";
-$definitions["Characters"] = "Characters";
-$definitions["Enter the amount of signature characters allowed."] = "Enter the amount of signature characters allowed.";
-$definitions["Max characters:"] = "Max characters:";
-$definitions["Signature"] = "Signature";
+$definitions["BBCode Allowed"] = "BB-код разрешен";
+$definitions["Characters"] = "Симвилы";
+$definitions["Enter the amount of signature characters allowed."] = "Введите допустимое количество симвилов подписи.";
+$definitions["Max characters:"] = "Максимальное количество символов:";
+$definitions["Signature"] = "Подпись";

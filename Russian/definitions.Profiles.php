@@ -1,14 +1,14 @@
 <?PHP
-$definitions["About"] = "About";
-$definitions["Create Field"] = "Create Field";
-$definitions["Edit Field"] = "Edit Field";
-$definitions["Field description"] = "Field description";
-$definitions["Field name"] = "Field name";
-$definitions["Hide field from guests"] = "Hide field from guests";
-$definitions["Input type"] = "Input type";
-$definitions["Location"] = "Location";
-$definitions["Manage Profile Fields"] = "Manage Profile Fields";
-$definitions["Options"] = "Options";
-$definitions["Privacy"] = "Privacy";
-$definitions["Show field on posts"] = "Show field on posts";
-$definitions["Write something about yourself."] = "Write something about yourself.";
+$definitions["About"] = "Обо мне";
+$definitions["Create Field"] = "Создать поле";
+$definitions["Edit Field"] = "Редактировать поле";
+$definitions["Field description"] = "Описание поля";
+$definitions["Field name"] = "Имя поля";
+$definitions["Hide field from guests"] = "Скрыть поле от гостей";
+$definitions["Input type"] = "Тип ввода";
+$definitions["Location"] = "Место расположения";
+$definitions["Manage Profile Fields"] = "Управление полями профиля";
+$definitions["Options"] = "Опции";
+$definitions["Privacy"] = "Конфиденциальность";
+$definitions["Show field on posts"] = "Показать поле в сообщениях";
+$definitions["Write something about yourself."] = "Напишите что-нибудь о себе.";

@@ -1,8 +1,8 @@
 <?PHP	
-$definitions["Envato Username"]             = "Envato Username";
-$definitions["Envato API-Key"]              = "Your Envato API-Key";
-$definitions["Envato Purchase-Code"]        = "Envato&nbsp;Purchase&#8209;Code";
-$definitions["message.ENVATO.settings"]     = "Enter your ENVATO API Key (<a href='https://build.envato.com/create-token/' target='_blank'>Help!</a>)";
-$definitions["message.invalidPurchaseCode"] = "Your 'Envato Purchase-Code' is invalid.";
-$definitions["message.invalidUser"]         = "Your 'Envato User' or 'Envato Purchase-Code' is invalid.";
-$definitions["message.PurchaseCodeExist"]   = "This 'Purchase-Code' is allready in use.";
+$definitions["Envato Username"]             = "Имя пользователя Envato";
+$definitions["Envato API-Key"]              = "Ваш API-ключ Envato";
+$definitions["Envato Purchase-Code"]        = "Код&nbsp;покупки&#8209;Envato";
+$definitions["message.ENVATO.settings"]     = "Введите свой API-ключ ENVATO (<a href='https://build.envato.com/create-token/' target='_blank'>Помощь!</a>)";
+$definitions["message.invalidPurchaseCode"] = "Ваш 'Код покупки Envato' недействителен.";
+$definitions["message.invalidUser"]         = "Ваш 'Пользователь Envato' или 'Код покупки Envato' недействителен.";
+$definitions["message.PurchaseCodeExist"]   = "Этот 'Код покупки' уже используется.";

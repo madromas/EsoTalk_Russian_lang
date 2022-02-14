@@ -1,6 +1,6 @@
 <?PHP
-$definitions["Unlike"] = "Unlike";
-$definitions["Like"] = "Like";
-$definitions["Members Who Liked This Post"] = "Members Who Liked This Post";
-$definitions["%s likes this."] = "%s likes this.";
-$definitions["%s like this."] = "%s like this.";
+$definitions["Unlike"] = "Не нравитса";
+$definitions["Like"] = "Нравится";
+$definitions["Members Who Liked This Post"] = "Пользователи, которым понравился этот пост";
+$definitions["%s likes this."] = "%s нравится это.";
+$definitions["%s like this."] = "%s понравилось это";
