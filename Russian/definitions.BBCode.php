@@ -2,6 +2,7 @@
 
 	$definitions["Code"] = "Код";
 	$definitions["Image"] = "Изображение";
+	$definitions["Map"] = "Карта";
 	$definitions["Link"] = "Ссылка";
 	$definitions["Strike"] = "Зачёркнутый текст";
 	$definitions["Header"] = "Заголовок";

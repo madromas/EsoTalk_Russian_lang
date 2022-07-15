@@ -5,9 +5,9 @@ ET::$languageInfo["Russian"] = array(
 	"name" => "Русский",
 	"description" => "Русский языковой пакет.",
 	"version" => ESOTALK_VERSION,
-	"author" => "Deadlock",
-	"authorEmail" => "support@esotalk.ru",
-	"authorURL" => "http://esotalk.ru",
+	"author" => "MadRomas",
+	"authorEmail" => "madromas@yahoo.com",
+	"authorURL" => "https://madway.net",
 	"license" => "GPLv2"
 );
 
