@@ -15,18 +15,20 @@ $definitions["charset"] = "utf-8";
 
 $definitions["date.full"] = "%c";
 
-$definitions["January"] = "Январь";
-$definitions["February"] = "Февраль";
-$definitions["March"] = "Март";
-$definitions["April"] = "Апрель";
-$definitions["May"] = "Май";
-$definitions["June"] = "Июня";
-$definitions["July"] = "Июль";
-$definitions["August"] = "Август";
-$definitions["September"] = "Сентябрь";
-$definitions["October"] = "Октябрь";
-$definitions["November"] = "Ноябрь";
-$definitions["December"] = "Декабрь";
+$definitions["month"] = array(
+  "January"   => "Январь",
+  "February"  => "Февраль",
+  "March"     => "Март",
+  "April"     => "Апрель",
+  "May"       => "Май",
+  "June"      => "Июнь",
+  "July"      => "Июль",
+  "August"    => "Август",
+  "September" => "Сентябрь",
+  "October"   => "Октябрь",
+  "November"  => "Ноябрь",
+  "December"  => "Декабрь"
+);
 
 $definitions["%d day ago"] = "вчера";
 $definitions["%d days ago"] = "%d дней назад";
